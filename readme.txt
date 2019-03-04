@@ -1,3 +1,1 @@
-# test Python program
-print("Hello world!")
-# third line
+Hello world!
